@@ -1,0 +1,23 @@
+{
+  "name": "delta",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "query-string": "^8.1.0",
+    "rxext": "0.0.11",
+    "teeny-request": "^8.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start11": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
